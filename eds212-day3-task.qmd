@@ -1,0 +1,36 @@
+---
+title: "eds212-day3-task"
+format: html
+editor: visual
+---
+
+## Day 3 coding practice
+
+```{r}
+vec_a <- c(1, 6)
+
+vec_b <- c(2, 4)
+
+```
+
+## check by hand solutions
+
+```{r}
+# addition
+vec_a + vec_b
+```
+
+```{r}
+# subtraction
+vec_b - vec_a
+```
+
+```{r}
+# scalar multiplication
+4 * vec_a
+```
+
+```{r}
+# dot product
+vec_a %*% vec_b
+```
